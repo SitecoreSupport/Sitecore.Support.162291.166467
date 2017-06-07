@@ -1,5 +1,6 @@
 # Sitecore.Support.162291.166467
 **162291:** Old version of an item is not removed from the web index
+
 **166467:** Item might disappear from the web index
 
 ## License  
